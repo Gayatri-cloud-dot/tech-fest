@@ -1,0 +1,9 @@
+#root, body {
+  background-color: #fff !important;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
